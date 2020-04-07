@@ -2,7 +2,7 @@
 
 ````````````````````````````
 Deepak Rajasekhar Karishetti
-
+@r10.deepak@gmail.com
 ````````````````````````````
 **Abstract:**
  - In this project work, several star skeletal based representations are implemented, namely, Relative Angles and
@@ -21,20 +21,20 @@ using a public activity dataset collected from a Kinect V1 sensor.
 
 (2) The best values for different representations are as follows:
 
-	(i) **RAD representation:**
+	(i) RAD representation:
 
 		C value = 1.0
 		Gamma value = 1.0
 		Accuracy = 62.5%
 
-	(ii) **HJPD representation:**
+	(ii) HJPD representation:
 
 		C value = 2.0
 		Gamma value = 0.0625
 		Accuracy = 75%
 
 
-	(iii) **HOD representation:**
+	(iii) HOD representation:
 
 		C value = 2.0
 		Gamma value = 0.5 
@@ -45,7 +45,7 @@ using a public activity dataset collected from a Kinect V1 sensor.
 
 	Running for accuracy:
 
-		(i) **RAD** >>python3 combined_accuracy_code.py [args]
+		(i) RAD >>python3 combined_accuracy_code.py [args]
 
 			[args]  => 1 for RAD
 				   2 for HJPD

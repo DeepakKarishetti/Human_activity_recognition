@@ -1,9 +1,7 @@
 **README FILE**
 
 ````````````````````````````
-CSCI 573
 Deepak Rajasekhar Karishetti
-10846936
 
 ````````````````````````````
 

@@ -1,8 +1,10 @@
+## Human Activity Recognition using SVM
+
 **README FILE**
 
 ````````````````````````````
 Deepak Rajasekhar Karishetti
-@r10.deepak@gmail.com
+r10.deepak@gmail.com
 ````````````````````````````
 **Abstract:**
  - In this project work, several star skeletal based representations are implemented, namely, Relative Angles and
@@ -17,9 +19,9 @@ using a public activity dataset collected from a Kinect V1 sensor.
 
 
 
-(1) The graphs for all the representations are put into the main folder           
+**The graphs for all the representations are put into the main folder**
 
-(2) The best values for different representations are as follows:
+**The best values for different representations are as follows:**
 
 	(i) RAD representation:
 
@@ -41,7 +43,7 @@ using a public activity dataset collected from a Kinect V1 sensor.
 		Accuracy = 87.5%
 
 
-(3) All the covered representation files and the output files are saved in the main folder
+**All the covered representation files and the output files are saved in the main folder**
 
 	Running for accuracy:
 
@@ -51,10 +53,10 @@ using a public activity dataset collected from a Kinect V1 sensor.
 				   2 for HJPD
 				   3 for HOD
 
-(4) The figures showing the variations between the accuracy and the number of bins are saved in the bar_plots folder
+**The figures showing the variations between the accuracy and the number of bins are saved in the bar_plots folder**
 
 
-(5) **Dependencies:**
+**Dependencies:**
 
 		numpy
 		scipy
@@ -63,4 +65,4 @@ using a public activity dataset collected from a Kinect V1 sensor.
 		glob
 		matplotlib
 
-(6) Confusion matrix is obtained when run for the representation accuracy by varying the input arguments.
+**Confusion matrix is obtained when run for the representation accuracy by varying the input arguments**
